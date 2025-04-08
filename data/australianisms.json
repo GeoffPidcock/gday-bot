@@ -1,0 +1,152 @@
+[
+    {
+      "phrase": "G'day",
+      "meaning": "Hello, good day",
+      "usage_example": "G'day mate, how's it going?"
+    },
+    {
+      "phrase": "Fair dinkum",
+      "meaning": "True, genuine, authentic",
+      "usage_example": "Is that fair dinkum or are you pulling my leg?"
+    },
+    {
+      "phrase": "Mate",
+      "meaning": "Friend, buddy, pal",
+      "usage_example": "Me and my mate are going to the pub tonight."
+    },
+    {
+      "phrase": "Arvo",
+      "meaning": "Afternoon",
+      "usage_example": "Let's catch up this arvo for a coffee."
+    },
+    {
+      "phrase": "Barbie",
+      "meaning": "Barbecue",
+      "usage_example": "We're having a barbie this weekend if you want to come."
+    },
+    {
+      "phrase": "Bloke",
+      "meaning": "Man, guy",
+      "usage_example": "He's a good bloke, you can trust him."
+    },
+    {
+      "phrase": "Bludger",
+      "meaning": "Lazy person, someone who avoids work",
+      "usage_example": "Don't be a bludger, help us clean up."
+    },
+    {
+      "phrase": "Crikey",
+      "meaning": "Expression of surprise",
+      "usage_example": "Crikey! I didn't see that coming."
+    },
+    {
+      "phrase": "Dunny",
+      "meaning": "Toilet, bathroom",
+      "usage_example": "Where's the dunny in this place?"
+    },
+    {
+      "phrase": "Esky",
+      "meaning": "Cooler, ice chest",
+      "usage_example": "Don't forget to bring the esky full of cold drinks."
+    },
+    {
+      "phrase": "Flat out",
+      "meaning": "Very busy, working hard",
+      "usage_example": "Sorry I haven't called, I've been flat out at work."
+    },
+    {
+      "phrase": "Grog",
+      "meaning": "Alcohol, liquor",
+      "usage_example": "We're bringing some grog to the party."
+    },
+    {
+      "phrase": "Heaps",
+      "meaning": "A lot, many",
+      "usage_example": "There were heaps of people at the beach today."
+    },
+    {
+      "phrase": "Icy pole",
+      "meaning": "Popsicle, ice lolly",
+      "usage_example": "It's so hot, I could really go for an icy pole right now."
+    },
+    {
+      "phrase": "Jumper",
+      "meaning": "Sweater, pullover",
+      "usage_example": "You should bring a jumper, it gets cold at night."
+    },
+    {
+      "phrase": "Kindie",
+      "meaning": "Kindergarten",
+      "usage_example": "My youngest just started kindie this year."
+    },
+    {
+      "phrase": "Larrikin",
+      "meaning": "A mischievous person, prankster",
+      "usage_example": "He's a bit of a larrikin, always playing jokes on everyone."
+    },
+    {
+      "phrase": "Maccas",
+      "meaning": "McDonald's",
+      "usage_example": "I'm starving, let's grab some Maccas on the way home."
+    },
+    {
+      "phrase": "No worries",
+      "meaning": "No problem, it's alright",
+      "usage_example": "Can I get this tomorrow instead? No worries, mate!"
+    },
+    {
+      "phrase": "Outback",
+      "meaning": "Remote inland Australia",
+      "usage_example": "We're planning a trip to the Outback this summer."
+    },
+    {
+      "phrase": "Pash",
+      "meaning": "To kiss passionately",
+      "usage_example": "They were pashing in the corner of the party."
+    },
+    {
+      "phrase": "Ripper",
+      "meaning": "Excellent, great",
+      "usage_example": "That was a ripper of a game!"
+    },
+    {
+      "phrase": "Servo",
+      "meaning": "Gas station, service station",
+      "usage_example": "I need to stop at the servo to fill up."
+    },
+    {
+      "phrase": "Thongs",
+      "meaning": "Flip-flops, sandals",
+      "usage_example": "Just throw on your thongs and let's head to the beach."
+    },
+    {
+      "phrase": "Ute",
+      "meaning": "Utility vehicle, pickup truck",
+      "usage_example": "We loaded all the camping gear in the back of the ute."
+    },
+    {
+      "phrase": "Veg out",
+      "meaning": "Relax, do nothing",
+      "usage_example": "I'm just going to veg out on the couch all weekend."
+    },
+    {
+      "phrase": "Whinge",
+      "meaning": "Complain, whine",
+      "usage_example": "Stop whinging about the weather, there's nothing we can do about it."
+    },
+    {
+      "phrase": "Yakka",
+      "meaning": "Work, especially hard work",
+      "usage_example": "We've got a lot of yakka to do before the deadline."
+    },
+    {
+      "phrase": "Zonked",
+      "meaning": "Extremely tired, exhausted",
+      "usage_example": "I'm completely zonked after that long shift."
+    },
+    {
+      "phrase": "Bottle-o",
+      "meaning": "Liquor store, bottle shop",
+      "usage_example": "We need to stop at the bottle-o to pick up some wine."
+    }
+  ]
